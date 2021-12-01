@@ -1,0 +1,16 @@
+{
+    "name": "a.khvorostinin/test_library_1",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AKhvorostinin\\TestLibrary1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "a.khvorostinin",
+            "email": "a.khvorostinin@corp.mail.ru"
+        }
+    ],
+    "require": {}
+}
